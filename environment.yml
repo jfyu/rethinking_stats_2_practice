@@ -1,0 +1,20 @@
+name: rethink2_pymc4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - jupyterlab
+  - pymc
+  - arviz
+  - aeppl
+  - aesara
+  - tqdm
+  - pip
+  - ca-certificates
+  - certifi
+  - openssl
+  - watermark
+  - pip:
+    - daft
+    - causalgraphicalmodels
