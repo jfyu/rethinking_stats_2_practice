@@ -14,7 +14,4 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-  - watermark
-  - pip:
-    - daft
-    - causalgraphicalmodels
+prefix: /Users/jingfei.yu/mambaforge/envs/rethink2_pymc4
